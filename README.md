@@ -53,3 +53,21 @@
   <br />
   <sub>*Count restarted in Feb 2025</sub>
 </p>
+
+<!-- BEGIN gh-mutual-linking -->
+
+---
+
+### Related projects
+
+- [**caddy-midi**](https://github.com/didvc/caddy-midi) — Caddy HTTP handler that serves MIDI files as synthesized audio. Pure Go, no cgo.
+- [**PingTracer-web**](https://github.com/nim-apps/PingTracer-web) — Ping monitor in Nim.
+- [**sdg**](https://github.com/SDGScript/sdg) — SDGScript | the sustainable programming language. A lighthearted but real tree-walking interpreter in Go.
+- [**simple-desktop-replay**](https://github.com/didvc/simple-desktop-replay) — Always-on rolling replay buffer for the Windows desktop: a low-overhead RAM DVR that keeps the last few minutes of screen so you can save the…
+- [**oss**](https://github.com/simple-netmon/oss) — Network monitor for Windows, local, privacy-respecting, per-app (ETW-first, no Npcap)
+- [**c2pa**](https://github.com/didvc/c2pa) — C2PA examined from the standpoint of artistic authorship
+- [**didvc**](https://github.com/didvc/didvc) — a little bit about me/vulpes.
+- [**universal-date-parser**](https://github.com/rust-core-libs/universal-date-parser)
+- [**json-schema-validator-core**](https://github.com/rust-core-libs/json-schema-validator-core)
+- [**slugify-core**](https://github.com/rust-core-libs/slugify-core)
+<!-- END gh-mutual-linking -->
