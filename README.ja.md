@@ -44,3 +44,9 @@
 - オーストリアのイノベーション・エコシステムと生活の質に魅力を感じている
 
 </details>
+
+<img src="assets/splitter-3.png" alt="" width="100%">
+
+これは2025年2月時点の古いプロフィールです。2027年版はこちら：
+
+<a href="https://github.com/didvc/didvc"><img src="https://raw.githubusercontent.com/didvc/didvc/refs/heads/main/social-preview.png" alt="Aesthetic Vulpes (didvc)" width="40%"></a>

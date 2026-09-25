@@ -44,3 +44,9 @@
 - Fascinado por el ecosistema de innovación de Austria y la calidad de vida
 
 </details>
+
+<img src="assets/splitter-3.png" alt="" width="100%">
+
+Estás viendo una versión antigua (febrero de 2025) de mi perfil. Para la versión de 2027, consulta:
+
+<a href="https://github.com/didvc/didvc"><img src="https://raw.githubusercontent.com/didvc/didvc/refs/heads/main/social-preview.png" alt="Aesthetic Vulpes (didvc)" width="40%"></a>

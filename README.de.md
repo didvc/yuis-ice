@@ -44,3 +44,9 @@
 - Fasziniert vom Innovationsökosystem Österreichs und der Lebensqualität
 
 </details>
+
+<img src="assets/splitter-3.png" alt="" width="100%">
+
+Du siehst eine alte Version meines Profils vom Februar 2025. Die Version von 2027 findest du hier:
+
+<a href="https://github.com/didvc/didvc"><img src="https://raw.githubusercontent.com/didvc/didvc/refs/heads/main/social-preview.png" alt="Aesthetic Vulpes (didvc)" width="40%"></a>

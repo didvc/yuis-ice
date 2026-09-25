@@ -44,3 +44,9 @@
 - 对奥地利的创新生态系统和生活质量很着迷
 
 </details>
+
+<img src="assets/splitter-3.png" alt="" width="100%">
+
+你正在浏览我 2025 年 2 月的旧版个人资料。2027 年版请见：
+
+<a href="https://github.com/didvc/didvc"><img src="https://raw.githubusercontent.com/didvc/didvc/refs/heads/main/social-preview.png" alt="Aesthetic Vulpes (didvc)" width="40%"></a>
