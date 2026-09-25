@@ -77,3 +77,6 @@ project-internals/
 project-meta
 tmp
 restic-backup
+
+# Personal, untracked working files
+.personal/
